@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 //选择排序最好最坏的情况时间复杂度都为o(n^2)，它是原地排序，但是它是不稳定的
 public class SelectSort {
 	public void select(int[] a,int n){

@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 
 public class AllSortPrint {
     public void printPermutations(int[] data,int n,int k){

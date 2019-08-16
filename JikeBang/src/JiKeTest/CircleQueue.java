@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 
 public class CircleQueue {
 	private String[] CQ;

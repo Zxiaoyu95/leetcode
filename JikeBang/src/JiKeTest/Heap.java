@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 
 public class Heap {
     int [] a;

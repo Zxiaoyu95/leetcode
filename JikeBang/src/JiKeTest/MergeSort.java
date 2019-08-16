@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 //归并排序首先利用了分治的思想，先将数列平分为两个子处理数列段，然后利用一个数组来按顺序合并两个处理段，最好与最坏的
 // 时间复杂度都为o(nlogn)，但不是原地排序（空间复杂度为o(n)，这是致命缺点！），是稳定排序
 public class MergeSort {

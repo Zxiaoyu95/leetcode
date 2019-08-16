@@ -1,8 +1,6 @@
-package Test;
+package JiKeTest;
 
 import java.util.Scanner;
-
-import Test.StackBasedOnLinkList.Node;
 
 public class PalindromeLinkedList {
 	public boolean isPalindrome(Node head){

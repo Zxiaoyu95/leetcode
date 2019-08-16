@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 //插入排序的时间复杂度为o(n^2),在原排列有序时可以降为o(n),是稳定排序，同时也是原地排序
 //插入排序  从尾部向前进行遍历
 public class InsertionSort {

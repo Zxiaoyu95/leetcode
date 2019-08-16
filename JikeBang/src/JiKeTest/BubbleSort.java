@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 //冒泡排序的时间复杂度是o(n^2)，在原排列有序时可以降到o(n)，同时排序是稳定的，是原地排序，其中交换的次数等于逆序度
 public class BubbleSort {
 	public void bubblesort(int[] a,int n){

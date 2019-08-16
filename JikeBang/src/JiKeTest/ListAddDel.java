@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 
 public class ListAddDel {
 	public int find1(int[] array1,int n,int key){

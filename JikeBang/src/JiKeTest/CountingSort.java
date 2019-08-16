@@ -1,4 +1,4 @@
-package Test;
+package JiKeTest;
 
 public class CountingSort {
     public void countSort(int[] a,int n){
