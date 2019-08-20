@@ -1,7 +1,4 @@
 package JiKeTest;
-
-import LeetCode.ThreeSum;
-
 import java.util.Arrays;
 
 public class ThreeSumClosest {
